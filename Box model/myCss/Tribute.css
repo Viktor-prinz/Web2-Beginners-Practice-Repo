@@ -1,0 +1,18 @@
+body{
+    background-color: aliceblue;
+    font-style: normal;
+    font-size: 19px;
+    margin-right: 50px;
+    margin-right: 50px;
+}
+.Image{
+    margin-left: 145px;
+}
+.Heading{
+    margin-left: 600px;
+    font-style: oblique;
+}
+.quote{
+    font-style: italic;
+    margin-left: 50px;
+}

@@ -1,0 +1,16 @@
+/* To start the body tag, you need to use the curly brackets {}. */
+    body{
+        background: yellow;
+        font-size: 19px
+        }
+    .lorem-text{
+        background-color: red;
+        font-size: 20px;
+        }    
+    .testing{
+        color: aliceblue;
+        }
+    #ipsum{
+        background-color: gray;
+        font-size: 45px;
+        }

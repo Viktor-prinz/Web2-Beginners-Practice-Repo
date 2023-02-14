@@ -1,0 +1,9 @@
+.Lorem{
+    border: 1px solid red;
+    /* To maintain al the margin types in one line of code */
+    /* Top, right, bottom, left */
+    /* Default Top-Bottom, Left-Right */
+    margin: 50px 100px ;
+    /* padding: 50px 100px; */
+    padding: 50px 60px 40px 10px;
+}
